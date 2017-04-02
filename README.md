@@ -1,6 +1,6 @@
 # RedditPlacePixelDistributor
 
-Webapp to allow faster graphic generation in the Place by allowing uploading or drawing a picture of a custom size and creates a unique link for that picture which that user can then share.
+Webapp to allow faster graphic generation in the Place by allowing uploading or drawing a picture of a custom size and creating a unique link for that picture which that user can then share.
 
 Visitors that enter this shared link are given coordinates for a pixel and the color to make it.
 
